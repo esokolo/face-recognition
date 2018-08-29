@@ -1,1 +1,1 @@
-# Face Recognition Using SVM:
+# Face Recognition Using SVM
